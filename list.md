@@ -4,8 +4,6 @@ title: 书单
 permalink: /list/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+###  在读
+#### Designing Data-Intensive Application 
+#### 论中国
